@@ -1,0 +1,26 @@
+body {
+  background-color: #1A3C40;
+  color: #EDE6DB;
+  font-family: monospace;
+  font-size: larger;
+}
+
+#greeting {
+  padding: 8% 16% 0 16%;
+}
+
+#contact {
+  padding: 0 16% 0 16%;
+  display: grid;
+}
+
+#line1 {
+  margin-right: 2%;
+  margin-top: 128px;
+  border: 8px dashed #1D5C63;
+}
+
+#line2 {
+  margin-left: 2%;
+  border: 8px dashed #417D7A;
+}
